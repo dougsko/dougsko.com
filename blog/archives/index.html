@@ -9,7 +9,7 @@
   <meta name="author" content="Doug Prostko">
 
   
-  <meta name="description" content=" Blog Archive Recent Posts Communications PGP:0x91B45508 Included file 'sides/github.html' not found in _includes directory ">
+  <meta name="description" content="Blog Archive Recent Posts Communications PGP: 0x91B45508 GitHub Repos Status updating... @dougsko on GitHub $(document).ready(function(){ if (! &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -94,9 +94,39 @@
         <a href='mailto:dougtko@gmail.com' rel='tooltip' title='dougtko@gmail.com'><i class='icon-envelope-alt'></i></a>
     	<a href='http://www.linkedin.com/pub/doug-prostko-jr/38/44/21' title='linkedin'><i class='icon-linkedin'></i></a>
 	</div>
-    <h3 class="pgp">PGP:<a href="http://pgp.mit.edu:11371/pks/lookup?op=get&search=0xFA83ADDC91B45508">0x91B45508</a></h3>
+    <h3 class="pgp">PGP: <a href="http://pgp.mit.edu:11371/pks/lookup?op=get&search=0xFA83ADDC91B45508">0x91B45508</a></h3>
 </section>
-Included file 'sides/github.html' not found in _includes directory
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/dougsko">@dougsko</a> on GitHub
+  
+  <script type="text/javascript">
+    $(document).ready(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'dougsko',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
 
 
 
