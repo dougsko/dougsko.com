@@ -4,7 +4,7 @@
   <title><![CDATA[dougsko]]></title>
   <link href="http://dougsko.github.io/atom.xml" rel="self"/>
   <link href="http://dougsko.github.io/"/>
-  <updated>2013-08-13T14:02:35-04:00</updated>
+  <updated>2013-08-13T14:10:44-04:00</updated>
   <id>http://dougsko.github.io/</id>
   <author>
     <name><![CDATA[Doug Prostko]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Adding a support bar]]></title>
+    <link href="http://dougsko.github.io/blog/2013/08/12/adding-a-support-bar/"/>
+    <updated>2013-08-12T14:03:00-04:00</updated>
+    <id>http://dougsko.github.io/blog/2013/08/12/adding-a-support-bar</id>
+    <content type="html"><![CDATA[<p>After flooding the table and observing how the frame held everything, I
+noticed that the table was sagging some in the middle.  This was causing
+the table to not drain as effectively, so I decided to build a support
+bar into the middle.  Here are some pictures of the final product.</p>
+
+<p><img src="http://i.imgur.com/3d0nuBx.jpg" title="'Support bar'" >
+<img src="http://i.imgur.com/Qh6TkK8.jpg" title="'Support bar 2'" ></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Grow log - 8/12/13]]></title>

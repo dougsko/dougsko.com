@@ -4,7 +4,7 @@
   <title><![CDATA[Category: gardening | dougsko]]></title>
   <link href="http://dougsko.github.io/blog/categories/gardening/atom.xml" rel="self"/>
   <link href="http://dougsko.github.io/"/>
-  <updated>2013-08-13T14:02:35-04:00</updated>
+  <updated>2013-08-13T14:10:44-04:00</updated>
   <id>http://dougsko.github.io/</id>
   <author>
     <name><![CDATA[Doug Prostko]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Adding a support bar]]></title>
+    <link href="http://dougsko.github.io/blog/2013/08/12/adding-a-support-bar/"/>
+    <updated>2013-08-12T14:03:00-04:00</updated>
+    <id>http://dougsko.github.io/blog/2013/08/12/adding-a-support-bar</id>
+    <content type="html"><![CDATA[<p>After flooding the table and observing how the frame held everything, I
+noticed that the table was sagging some in the middle.  This was causing
+the table to not drain as effectively, so I decided to build a support
+bar into the middle.  Here are some pictures of the final product.</p>
+
+<p><img class="<a" src="href="http://i.imgur.com/3d0nuBx.jpg">http://i.imgur.com/3d0nuBx.jpg</a>" title="&lsquo;Support bar&rsquo;" >
+<img class="<a" src="href="http://i.imgur.com/Qh6TkK8.jpg">http://i.imgur.com/Qh6TkK8.jpg</a>" title="&lsquo;Support bar 2&rsquo;" ></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Grow log - 8/12/13]]></title>
@@ -90,77 +105,6 @@ storage container to act as the reservoir.</p>
 
 <p>You&rsquo;ll notice I started some seeds in rockwool cubes and placed then on
 the table.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Building a hydroponic garden]]></title>
-    <link href="http://dougsko.github.io/blog/2013/07/23/building-a-hydroponic-garden/"/>
-    <updated>2013-07-23T10:27:00-04:00</updated>
-    <id>http://dougsko.github.io/blog/2013/07/23/building-a-hydroponic-garden</id>
-    <content type="html"><![CDATA[<p>So I wanted to do some gardening in my apartment and so decided that a
-hydroponic system would be the best route.  Such a system would offer
-the most efficiency and capacity, while taking up the least amount of
-space.  I decided to go with an ebb and flow system since it would offer
-the most versatility.  The way it would work is, a table would sit above
-a reservoir, filled with nutrient solution, which would be pumped up to
-the table periodically, and then drain back down.</p>
-
-<!-- more -->
-
-
-<p>I would need a structure to hold the flood table as well as something to
-hold my lights, so I decided on PVC because it&rsquo;s cheap and you can make
-almost anything out of it.  In order to help myself figure out how many
-tee fitting, etc. I needed, I thought it&rsquo;d be a good idea to model out
-the structure before buying anything.  I used Sketchup to do this since
-it&rsquo;s free and someone else already modeled out all the PVC connectors I
-would need.</p>
-
-<p><img class="<a" src="href="http://i.imgur.com/3r1dDEP.png">http://i.imgur.com/3r1dDEP.png</a>" title="&lsquo;Model front view&rsquo; &lsquo;Model front view&rsquo;" >
-<img class="<a" src="href="http://i.imgur.com/RNmFVmE.png">http://i.imgur.com/RNmFVmE.png</a>" title="&lsquo;Model iso view&rsquo; &lsquo;Model iso view&rsquo;" >
-<img class="<a" src="href="http://i.imgur.com/i4n1fdF.png">http://i.imgur.com/i4n1fdF.png</a>" title="&lsquo;Model side view&rsquo; &lsquo;Model side view&rsquo;" >
-<img class="<a" src="href="http://i.imgur.com/pfgFwaX.png">http://i.imgur.com/pfgFwaX.png</a>" title="&lsquo;Model top view&rsquo; &lsquo;Model top view&rsquo;" ></p>
-
-<p>You&rsquo;ll notice the lights don&rsquo;t exactly connect to anything in the model,
-but they&rsquo;re there to act more as placeholders than anything else.  Now
-that I had a plan, the next step was to get started on construction.</p>
-
-<p>I needed to make the table modular so I could get it in and out of
-doorways.  So the legs, the vertical pieces that hold the light bar, and
-the light bar, are all separate pieces.  Here is the table without the
-top pieces:</p>
-
-<p><img class="<a" src="href="http://i.imgur.com/9Ek9SGD.jpg">http://i.imgur.com/9Ek9SGD.jpg</a>" title="&lsquo;Beginning of the table&rsquo;" ></p>
-
-<p>The vertical pipes that hold the light bar are how I will adjust the
-height of the lights.  When I need to raise the lights up, I just swap
-out those pipes for taller ones.  Here is a picture of the tall vertical
-pieces with the light bar on top:</p>
-
-<p><img class="<a" src="href="http://i.imgur.com/Z0uQSW7.jpg">http://i.imgur.com/Z0uQSW7.jpg</a>" title="&lsquo;Tall pipes&rsquo;" ></p>
-
-<p>This next picture is a closeup of the light bar, and it shows how I&rsquo;m
-actually connecting my lights.  The lights I&rsquo;m using are two 65 watt
-compact fluorescent flood lights.  Each one has a &frac12;" knuckle that
-would normally screw into a junction box.  In my case, they screw into
-this &frac12;" threaded female reducer.</p>
-
-<p><img class="<a" src="href="http://i.imgur.com/MUmZO5J.jpg">http://i.imgur.com/MUmZO5J.jpg</a>" title="&lsquo;Tee fitting for light&rsquo;" ></p>
-
-<p>On the backside of the tee fitting, I drilled a hole for the lights'
-wires to come through.</p>
-
-<p><img class="<a" src="href="http://i.imgur.com/Qow57Ev.jpg">http://i.imgur.com/Qow57Ev.jpg</a>" title="&lsquo;Tee backside&rsquo;" ></p>
-
-<p>And here is a picture of the completed table, with the lights installed:</p>
-
-<p><img class="<a" src="href="http://i.imgur.com/eny9WLX.jpg">http://i.imgur.com/eny9WLX.jpg</a>" title="&lsquo;Table complete&rsquo;" ></p>
-
-<p>And lastly, this picture shows the table with its short vertical light
-holders.</p>
-
-<p><img class="<a" src="href="http://i.imgur.com/unetKnz.jpg">http://i.imgur.com/unetKnz.jpg</a>" title="&lsquo;Table short&rsquo;" ></p>
 ]]></content>
   </entry>
   
