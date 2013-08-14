@@ -4,7 +4,7 @@
   <title><![CDATA[dougsko]]></title>
   <link href="http://dougsko.github.io/atom.xml" rel="self"/>
   <link href="http://dougsko.github.io/"/>
-  <updated>2013-08-13T22:17:21-04:00</updated>
+  <updated>2013-08-13T22:19:01-04:00</updated>
   <id>http://dougsko.github.io/</id>
   <author>
     <name><![CDATA[Doug Prostko]]></name>
@@ -23,7 +23,8 @@ noticed that the table was sagging some in the middle.  This was causing
 the table to not drain as effectively, so I decided to build a support
 bar into the middle.  Here are some pictures of the final product.</p>
 
-<p><img src="http://i.imgur.com/3d0nuBx.jpg" title="'Support bar'" >
+<p>i<!-- more -->
+<img src="http://i.imgur.com/3d0nuBx.jpg" title="'Support bar'" >
 <img src="http://i.imgur.com/Qh6TkK8.jpg" title="'Support bar 2'" ></p>
 ]]></content>
   </entry>
