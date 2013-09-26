@@ -4,7 +4,7 @@
   <title><![CDATA[dougsko]]></title>
   <link href="http://dougsko.github.io/atom.xml" rel="self"/>
   <link href="http://dougsko.github.io/"/>
-  <updated>2013-09-13T14:19:18-04:00</updated>
+  <updated>2013-09-26T13:48:25-04:00</updated>
   <id>http://dougsko.github.io/</id>
   <author>
     <name><![CDATA[Doug Prostko]]></name>
@@ -14,12 +14,35 @@
 
   
   <entry>
+    <title type="html"><![CDATA[grow log - 9/26/13]]></title>
+    <link href="http://dougsko.github.io/blog/2013/09/26/grow-log-9-slash-26-slash-13/"/>
+    <updated>2013-09-26T13:17:00-04:00</updated>
+    <id>http://dougsko.github.io/blog/2013/09/26/grow-log-9-slash-26-slash-13</id>
+    <content type="html"><![CDATA[<p>More pictures!</p>
+
+<p><img src="http://i.imgur.com/ZdbWBi6.jpg">
+<img src="http://i.imgur.com/71UGsXc.jpg">
+<img src="http://i.imgur.com/I32bBMm.jpg">
+<img src="http://i.imgur.com/M2C6SGO.jpg"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[grow log - 9/22/13]]></title>
+    <link href="http://dougsko.github.io/blog/2013/09/22/grow-log-9-slash-22-slash-13/"/>
+    <updated>2013-09-22T13:16:00-04:00</updated>
+    <id>http://dougsko.github.io/blog/2013/09/22/grow-log-9-slash-22-slash-13</id>
+    <content type="html"><![CDATA[<p>Changed the water today.  Mixed the new solution to full strength.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Grow Log - 9/12/13]]></title>
     <link href="http://dougsko.github.io/blog/2013/09/13/grow-log-9-slash-12-slash-13/"/>
     <updated>2013-09-13T14:00:00-04:00</updated>
     <id>http://dougsko.github.io/blog/2013/09/13/grow-log-9-slash-12-slash-13</id>
     <content type="html"><![CDATA[<p>The garden has been moved to a new spot and I picked up a new reservoir
-that holds tem more gallons and is much more sturdy.</p>
+that holds ten more gallons and is much more sturdy.</p>
 
 <p><img src="http://i.imgur.com/fVQP7JA.jpg"></p>
 

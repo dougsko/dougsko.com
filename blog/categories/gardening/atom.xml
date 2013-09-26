@@ -4,7 +4,7 @@
   <title><![CDATA[Category: gardening | dougsko]]></title>
   <link href="http://dougsko.github.io/blog/categories/gardening/atom.xml" rel="self"/>
   <link href="http://dougsko.github.io/"/>
-  <updated>2013-09-26T13:43:52-04:00</updated>
+  <updated>2013-09-26T13:48:25-04:00</updated>
   <id>http://dougsko.github.io/</id>
   <author>
     <name><![CDATA[Doug Prostko]]></name>
@@ -20,10 +20,10 @@
     <id>http://dougsko.github.io/blog/2013/09/26/grow-log-9-slash-26-slash-13</id>
     <content type="html"><![CDATA[<p>More pictures!</p>
 
-<p>{% img <a href="http://i.imgur.com/ZdbWBi6.jpg">http://i.imgur.com/ZdbWBi6.jpg</a> %}
-{% <a href="http://i.imgur.com/71UGsXc.jpg">http://i.imgur.com/71UGsXc.jpg</a> %}
-{% img <a href="http://i.imgur.com/I32bBMm.jpg">http://i.imgur.com/I32bBMm.jpg</a> %}
-{% img <a href="http://i.imgur.com/M2C6SGO.jpg">http://i.imgur.com/M2C6SGO.jpg</a> %}</p>
+<p><img class="<a" src="href="http://i.imgur.com/ZdbWBi6.jpg">http://i.imgur.com/ZdbWBi6.jpg</a>">
+<img class="<a" src="href="http://i.imgur.com/71UGsXc.jpg">http://i.imgur.com/71UGsXc.jpg</a>">
+<img class="<a" src="href="http://i.imgur.com/I32bBMm.jpg">http://i.imgur.com/I32bBMm.jpg</a>">
+<img class="<a" src="href="http://i.imgur.com/M2C6SGO.jpg">http://i.imgur.com/M2C6SGO.jpg</a>"></p>
 ]]></content>
   </entry>
   
@@ -44,30 +44,30 @@
     <content type="html"><![CDATA[<p>The garden has been moved to a new spot and I picked up a new reservoir
 that holds ten more gallons and is much more sturdy.</p>
 
-<p>{% img <a href="http://i.imgur.com/fVQP7JA.jpg">http://i.imgur.com/fVQP7JA.jpg</a> %}</p>
+<p><img class="<a" src="href="http://i.imgur.com/fVQP7JA.jpg">http://i.imgur.com/fVQP7JA.jpg</a>"></p>
 
 <p>I topped the basil plant so it would start growing out instead of just
 up.  You can see how this made the plant split, and once it grows out a
 bit more, I&rsquo;ll top each of the two main stems in order to make it branch
 out again.</p>
 
-<p>{% img <a href="http://i.imgur.com/wa0zGJ7.jpg">http://i.imgur.com/wa0zGJ7.jpg</a> %}</p>
+<p><img class="<a" src="href="http://i.imgur.com/wa0zGJ7.jpg">http://i.imgur.com/wa0zGJ7.jpg</a>"></p>
 
 <p>The cucumber plant is starting to grow flowers!</p>
 
-<p>{% img <a href="http://i.imgur.com/VkMSMnH.jpg">http://i.imgur.com/VkMSMnH.jpg</a> %}
-{% img <a href="http://i.imgur.com/WGQ1BUV.jpg">http://i.imgur.com/WGQ1BUV.jpg</a> %}</p>
+<p><img class="<a" src="href="http://i.imgur.com/VkMSMnH.jpg">http://i.imgur.com/VkMSMnH.jpg</a>">
+<img class="<a" src="href="http://i.imgur.com/WGQ1BUV.jpg">http://i.imgur.com/WGQ1BUV.jpg</a>"></p>
 
 <p>While this mystery plant has been growing extremely slowly compared to
 the others, it has been making some noticible progress lately.</p>
 
-<p>{% img <a href="http://i.imgur.com/xdNFRAl.jpg">http://i.imgur.com/xdNFRAl.jpg</a> %}</p>
+<p><img class="<a" src="href="http://i.imgur.com/xdNFRAl.jpg">http://i.imgur.com/xdNFRAl.jpg</a>"></p>
 
 <p>The two pepper plants are doing great.  It&rsquo;s really obvious that they
 are doing much better than they would have under the old lighting
 system.</p>
 
-<p>{% img <a href="http://i.imgur.com/xN7FdN0.jpg">http://i.imgur.com/xN7FdN0.jpg</a> %}</p>
+<p><img class="<a" src="href="http://i.imgur.com/xN7FdN0.jpg">http://i.imgur.com/xN7FdN0.jpg</a>"></p>
 ]]></content>
   </entry>
   
@@ -80,15 +80,15 @@ system.</p>
 throws twice the lumens and provides much better overall coverage on the
 table.  This should greatly reduce dark spots and stretching.</p>
 
-<p>{% img <a href="http://i.imgur.com/lLnrilj.jpg">http://i.imgur.com/lLnrilj.jpg</a> %}</p>
+<p><img class="<a" src="href="http://i.imgur.com/lLnrilj.jpg">http://i.imgur.com/lLnrilj.jpg</a>"></p>
 
 <p>The fixture is hanging from ratcheting pulleys, which allow me to raise
 and lower the lights very easily.</p>
 
-<p>{% img <a href="http://i.imgur.com/Mh4t97p.jpg">http://i.imgur.com/Mh4t97p.jpg</a> %}
-{% img <a href="http://i.imgur.com/wP4T1Ek.jpg">http://i.imgur.com/wP4T1Ek.jpg</a> %}
-{% img <a href="http://i.imgur.com/oksVBTO.jpg">http://i.imgur.com/oksVBTO.jpg</a> %}
-{% img <a href="http://i.imgur.com/GQkRQFq.jpg">http://i.imgur.com/GQkRQFq.jpg</a> %}</p>
+<p><img class="<a" src="href="http://i.imgur.com/Mh4t97p.jpg">http://i.imgur.com/Mh4t97p.jpg</a>">
+<img class="<a" src="href="http://i.imgur.com/wP4T1Ek.jpg">http://i.imgur.com/wP4T1Ek.jpg</a>">
+<img class="<a" src="href="http://i.imgur.com/oksVBTO.jpg">http://i.imgur.com/oksVBTO.jpg</a>">
+<img class="<a" src="href="http://i.imgur.com/GQkRQFq.jpg">http://i.imgur.com/GQkRQFq.jpg</a>"></p>
 ]]></content>
   </entry>
   
@@ -101,17 +101,17 @@ and lower the lights very easily.</p>
 seeds from Hawaii today.  Also, I ran out of expanded clay pellets so I
 started filling up the pots with perlite instead.</p>
 
-<p>{% img <a href="http://i.imgur.com/JvWMSlw.jpg">http://i.imgur.com/JvWMSlw.jpg</a> &lsquo;plants&rsquo; %}
-{% img <a href="http://i.imgur.com/ymAtPg8.jpg">http://i.imgur.com/ymAtPg8.jpg</a> &lsquo;plants2&rsquo; %}</p>
+<p><img class="<a" src="href="http://i.imgur.com/JvWMSlw.jpg">http://i.imgur.com/JvWMSlw.jpg</a>" title="&lsquo;plants&rsquo;" >
+<img class="<a" src="href="http://i.imgur.com/ymAtPg8.jpg">http://i.imgur.com/ymAtPg8.jpg</a>" title="&lsquo;plants2&rsquo;" ></p>
 
 <p>Most of the plants are starting to grow their secondary set of leaves so
 hopefully I can start identifying some of them soon.</p>
 
-<p>{% img <a href="http://i.imgur.com/MUE5JYq.jpg">http://i.imgur.com/MUE5JYq.jpg</a> &lsquo;closeup&rsquo; %}
-{% img <a href="http://i.imgur.com/Xo49WHN.jpg">http://i.imgur.com/Xo49WHN.jpg</a> &lsquo;closeup 1&rsquo; %}
-{% img <a href="http://i.imgur.com/FfPGJDD.jpg">http://i.imgur.com/FfPGJDD.jpg</a> &lsquo;closeup 2 %}
-{% img <a href="http://i.imgur.com/i4LnSuF.jpg">http://i.imgur.com/i4LnSuF.jpg</a> 'closeup 3 %}
-{% img <a href="http://i.imgur.com/ADefNh7.jpg">http://i.imgur.com/ADefNh7.jpg</a> 'table&rsquo; %}</p>
+<p><img class="<a" src="href="http://i.imgur.com/MUE5JYq.jpg">http://i.imgur.com/MUE5JYq.jpg</a>" title="&lsquo;closeup&rsquo;" >
+<img class="<a" src="href="http://i.imgur.com/Xo49WHN.jpg">http://i.imgur.com/Xo49WHN.jpg</a>" title="&lsquo;closeup 1&rsquo;" >
+<img class="<a" src="href="http://i.imgur.com/FfPGJDD.jpg">http://i.imgur.com/FfPGJDD.jpg</a>" title="&lsquo;closeup 2" >
+<img class="<a" src="href="http://i.imgur.com/i4LnSuF.jpg">http://i.imgur.com/i4LnSuF.jpg</a>" title="'closeup 3" >
+<img class="<a" src="href="http://i.imgur.com/ADefNh7.jpg">http://i.imgur.com/ADefNh7.jpg</a>" title="'table&rsquo;" ></p>
 ]]></content>
   </entry>
   
