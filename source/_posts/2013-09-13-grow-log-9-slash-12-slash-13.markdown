@@ -7,7 +7,7 @@ categories: gardening
 ---
 
 The garden has been moved to a new spot and I picked up a new reservoir
-that holds tem more gallons and is much more sturdy.
+that holds ten more gallons and is much more sturdy.
 
 {% img http://i.imgur.com/fVQP7JA.jpg %}
 
