@@ -10,6 +10,11 @@ footer: true
 An Android application for creating secure passphrases
 ------------------------------------------------------
 
+<a href="https://play.google.com/store/apps/details?id=com.dougsko.diceware">
+<img alt="Get it on Google Play" src="https://developer.android.com/images/brand/en_generic_rgb_wo_45.png" />
+</a>
+
+
 ### Why another password generation application?
 
 Choosing a good password is all about entropy.  What is entropy?  In
