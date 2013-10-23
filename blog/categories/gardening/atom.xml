@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: gardening | dougsko]]></title>
-  <link href="http://dougsko.github.io/blog/categories/gardening/atom.xml" rel="self"/>
-  <link href="http://dougsko.github.io/"/>
-  <updated>2013-09-26T14:03:01-04:00</updated>
-  <id>http://dougsko.github.io/</id>
+  <link href="http://dougsko.com/blog/categories/gardening/atom.xml" rel="self"/>
+  <link href="http://dougsko.com/"/>
+  <updated>2013-10-23T13:09:39-04:00</updated>
+  <id>http://dougsko.com/</id>
   <author>
     <name><![CDATA[Doug Prostko]]></name>
     
@@ -14,10 +14,20 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Grow Log - 10/22/13]]></title>
+    <link href="http://dougsko.com/blog/2013/10/23/grow-log-10-slash-22-slash-13/"/>
+    <updated>2013-10-23T13:08:00-04:00</updated>
+    <id>http://dougsko.com/blog/2013/10/23/grow-log-10-slash-22-slash-13</id>
+    <content type="html"><![CDATA[<p>Today I changed the light cycle over to 12/12.  The eggplant is starting
+to grow flowers so I&rsquo;m hoping this will induce fruiting.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[grow log - 9/26/13]]></title>
-    <link href="http://dougsko.github.io/blog/2013/09/26/grow-log-9-slash-26-slash-13/"/>
+    <link href="http://dougsko.com/blog/2013/09/26/grow-log-9-slash-26-slash-13/"/>
     <updated>2013-09-26T13:17:00-04:00</updated>
-    <id>http://dougsko.github.io/blog/2013/09/26/grow-log-9-slash-26-slash-13</id>
+    <id>http://dougsko.com/blog/2013/09/26/grow-log-9-slash-26-slash-13</id>
     <content type="html"><![CDATA[<p>More pictures!</p>
 
 <p><img class="<a" src="href="http://i.imgur.com/ZdbWBi6.jpg">http://i.imgur.com/ZdbWBi6.jpg</a>">
@@ -29,18 +39,18 @@
   
   <entry>
     <title type="html"><![CDATA[grow log - 9/22/13]]></title>
-    <link href="http://dougsko.github.io/blog/2013/09/22/grow-log-9-slash-22-slash-13/"/>
+    <link href="http://dougsko.com/blog/2013/09/22/grow-log-9-slash-22-slash-13/"/>
     <updated>2013-09-22T13:16:00-04:00</updated>
-    <id>http://dougsko.github.io/blog/2013/09/22/grow-log-9-slash-22-slash-13</id>
+    <id>http://dougsko.com/blog/2013/09/22/grow-log-9-slash-22-slash-13</id>
     <content type="html"><![CDATA[<p>Changed the water today.  Mixed the new solution to full strength.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Grow Log - 9/12/13]]></title>
-    <link href="http://dougsko.github.io/blog/2013/09/13/grow-log-9-slash-12-slash-13/"/>
+    <link href="http://dougsko.com/blog/2013/09/13/grow-log-9-slash-12-slash-13/"/>
     <updated>2013-09-13T14:00:00-04:00</updated>
-    <id>http://dougsko.github.io/blog/2013/09/13/grow-log-9-slash-12-slash-13</id>
+    <id>http://dougsko.com/blog/2013/09/13/grow-log-9-slash-12-slash-13</id>
     <content type="html"><![CDATA[<p>The garden has been moved to a new spot and I picked up a new reservoir
 that holds ten more gallons and is much more sturdy.</p>
 
@@ -73,9 +83,9 @@ system.</p>
   
   <entry>
     <title type="html"><![CDATA[Grow Log - 9/6/13]]></title>
-    <link href="http://dougsko.github.io/blog/2013/09/06/grow-log-9-slash-6-slash-13/"/>
+    <link href="http://dougsko.com/blog/2013/09/06/grow-log-9-slash-6-slash-13/"/>
     <updated>2013-09-06T16:20:00-04:00</updated>
-    <id>http://dougsko.github.io/blog/2013/09/06/grow-log-9-slash-6-slash-13</id>
+    <id>http://dougsko.com/blog/2013/09/06/grow-log-9-slash-6-slash-13</id>
     <content type="html"><![CDATA[<p>I swapped out the two flood lights for a 4', four bulb, T5 fixture.  It
 throws twice the lumens and provides much better overall coverage on the
 table.  This should greatly reduce dark spots and stretching.</p>
@@ -89,29 +99,6 @@ and lower the lights very easily.</p>
 <img class="<a" src="href="http://i.imgur.com/wP4T1Ek.jpg">http://i.imgur.com/wP4T1Ek.jpg</a>">
 <img class="<a" src="href="http://i.imgur.com/oksVBTO.jpg">http://i.imgur.com/oksVBTO.jpg</a>">
 <img class="<a" src="href="http://i.imgur.com/GQkRQFq.jpg">http://i.imgur.com/GQkRQFq.jpg</a>"></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Grow Log - 8/18/13]]></title>
-    <link href="http://dougsko.github.io/blog/2013/08/18/grow-log-8-slash-18-slash-13/"/>
-    <updated>2013-08-18T10:12:00-04:00</updated>
-    <id>http://dougsko.github.io/blog/2013/08/18/grow-log-8-slash-18-slash-13</id>
-    <content type="html"><![CDATA[<p>Everything is growing pretty well.  I planted two more cubes with pepper
-seeds from Hawaii today.  Also, I ran out of expanded clay pellets so I
-started filling up the pots with perlite instead.</p>
-
-<p><img class="<a" src="href="http://i.imgur.com/JvWMSlw.jpg">http://i.imgur.com/JvWMSlw.jpg</a>" title="&lsquo;plants&rsquo;" >
-<img class="<a" src="href="http://i.imgur.com/ymAtPg8.jpg">http://i.imgur.com/ymAtPg8.jpg</a>" title="&lsquo;plants2&rsquo;" ></p>
-
-<p>Most of the plants are starting to grow their secondary set of leaves so
-hopefully I can start identifying some of them soon.</p>
-
-<p><img class="<a" src="href="http://i.imgur.com/MUE5JYq.jpg">http://i.imgur.com/MUE5JYq.jpg</a>" title="&lsquo;closeup&rsquo;" >
-<img class="<a" src="href="http://i.imgur.com/Xo49WHN.jpg">http://i.imgur.com/Xo49WHN.jpg</a>" title="&lsquo;closeup 1&rsquo;" >
-<img class="<a" src="href="http://i.imgur.com/FfPGJDD.jpg">http://i.imgur.com/FfPGJDD.jpg</a>" title="&lsquo;closeup 2" >
-<img class="<a" src="href="http://i.imgur.com/i4LnSuF.jpg">http://i.imgur.com/i4LnSuF.jpg</a>" title="'closeup 3" >
-<img class="<a" src="href="http://i.imgur.com/ADefNh7.jpg">http://i.imgur.com/ADefNh7.jpg</a>" title="'table&rsquo;" ></p>
 ]]></content>
   </entry>
   

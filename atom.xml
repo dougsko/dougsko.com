@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[dougsko]]></title>
-  <link href="http://dougsko.github.io/atom.xml" rel="self"/>
-  <link href="http://dougsko.github.io/"/>
-  <updated>2013-09-26T14:03:01-04:00</updated>
-  <id>http://dougsko.github.io/</id>
+  <link href="http://dougsko.com/atom.xml" rel="self"/>
+  <link href="http://dougsko.com/"/>
+  <updated>2013-10-23T13:09:39-04:00</updated>
+  <id>http://dougsko.com/</id>
   <author>
     <name><![CDATA[Doug Prostko]]></name>
     
@@ -14,10 +14,20 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Grow Log - 10/22/13]]></title>
+    <link href="http://dougsko.com/blog/2013/10/23/grow-log-10-slash-22-slash-13/"/>
+    <updated>2013-10-23T13:08:00-04:00</updated>
+    <id>http://dougsko.com/blog/2013/10/23/grow-log-10-slash-22-slash-13</id>
+    <content type="html"><![CDATA[<p>Today I changed the light cycle over to 12/12.  The eggplant is starting
+to grow flowers so I&rsquo;m hoping this will induce fruiting.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[grow log - 9/26/13]]></title>
-    <link href="http://dougsko.github.io/blog/2013/09/26/grow-log-9-slash-26-slash-13/"/>
+    <link href="http://dougsko.com/blog/2013/09/26/grow-log-9-slash-26-slash-13/"/>
     <updated>2013-09-26T13:17:00-04:00</updated>
-    <id>http://dougsko.github.io/blog/2013/09/26/grow-log-9-slash-26-slash-13</id>
+    <id>http://dougsko.com/blog/2013/09/26/grow-log-9-slash-26-slash-13</id>
     <content type="html"><![CDATA[<p>More pictures!</p>
 
 <p><img src="http://i.imgur.com/ZdbWBi6.jpg">
@@ -29,18 +39,18 @@
   
   <entry>
     <title type="html"><![CDATA[grow log - 9/22/13]]></title>
-    <link href="http://dougsko.github.io/blog/2013/09/22/grow-log-9-slash-22-slash-13/"/>
+    <link href="http://dougsko.com/blog/2013/09/22/grow-log-9-slash-22-slash-13/"/>
     <updated>2013-09-22T13:16:00-04:00</updated>
-    <id>http://dougsko.github.io/blog/2013/09/22/grow-log-9-slash-22-slash-13</id>
+    <id>http://dougsko.com/blog/2013/09/22/grow-log-9-slash-22-slash-13</id>
     <content type="html"><![CDATA[<p>Changed the water today.  Mixed the new solution to full strength.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Grow Log - 9/12/13]]></title>
-    <link href="http://dougsko.github.io/blog/2013/09/13/grow-log-9-slash-12-slash-13/"/>
+    <link href="http://dougsko.com/blog/2013/09/13/grow-log-9-slash-12-slash-13/"/>
     <updated>2013-09-13T14:00:00-04:00</updated>
-    <id>http://dougsko.github.io/blog/2013/09/13/grow-log-9-slash-12-slash-13</id>
+    <id>http://dougsko.com/blog/2013/09/13/grow-log-9-slash-12-slash-13</id>
     <content type="html"><![CDATA[<p>The garden has been moved to a new spot and I picked up a new reservoir
 that holds ten more gallons and is much more sturdy.</p>
 
@@ -73,9 +83,9 @@ system.</p>
   
   <entry>
     <title type="html"><![CDATA[Grow Log - 9/6/13]]></title>
-    <link href="http://dougsko.github.io/blog/2013/09/06/grow-log-9-slash-6-slash-13/"/>
+    <link href="http://dougsko.com/blog/2013/09/06/grow-log-9-slash-6-slash-13/"/>
     <updated>2013-09-06T16:20:00-04:00</updated>
-    <id>http://dougsko.github.io/blog/2013/09/06/grow-log-9-slash-6-slash-13</id>
+    <id>http://dougsko.com/blog/2013/09/06/grow-log-9-slash-6-slash-13</id>
     <content type="html"><![CDATA[<p>I swapped out the two flood lights for a 4&#8217;, four bulb, T5 fixture.  It
 throws twice the lumens and provides much better overall coverage on the
 table.  This should greatly reduce dark spots and stretching.</p>
@@ -94,9 +104,9 @@ and lower the lights very easily.</p>
   
   <entry>
     <title type="html"><![CDATA[Grow Log - 8/18/13]]></title>
-    <link href="http://dougsko.github.io/blog/2013/08/18/grow-log-8-slash-18-slash-13/"/>
+    <link href="http://dougsko.com/blog/2013/08/18/grow-log-8-slash-18-slash-13/"/>
     <updated>2013-08-18T10:12:00-04:00</updated>
-    <id>http://dougsko.github.io/blog/2013/08/18/grow-log-8-slash-18-slash-13</id>
+    <id>http://dougsko.com/blog/2013/08/18/grow-log-8-slash-18-slash-13</id>
     <content type="html"><![CDATA[<p>Everything is growing pretty well.  I planted two more cubes with pepper
 seeds from Hawaii today.  Also, I ran out of expanded clay pellets so I
 started filling up the pots with perlite instead.</p>
@@ -117,9 +127,9 @@ hopefully I can start identifying some of them soon.</p>
   
   <entry>
     <title type="html"><![CDATA[Adding a support bar]]></title>
-    <link href="http://dougsko.github.io/blog/2013/08/12/adding-a-support-bar/"/>
+    <link href="http://dougsko.com/blog/2013/08/12/adding-a-support-bar/"/>
     <updated>2013-08-12T14:03:00-04:00</updated>
-    <id>http://dougsko.github.io/blog/2013/08/12/adding-a-support-bar</id>
+    <id>http://dougsko.com/blog/2013/08/12/adding-a-support-bar</id>
     <content type="html"><![CDATA[<p>After flooding the table and observing how the frame held everything, I
 noticed that the table was sagging some in the middle.  This was causing
 the table to not drain as effectively, so I decided to build a support
@@ -132,9 +142,9 @@ bar into the middle.  Here are some pictures of the final product.</p>
   
   <entry>
     <title type="html"><![CDATA[Grow log - 8/12/13]]></title>
-    <link href="http://dougsko.github.io/blog/2013/08/12/grow-log-8-slash-12-slash-13/"/>
+    <link href="http://dougsko.com/blog/2013/08/12/grow-log-8-slash-12-slash-13/"/>
     <updated>2013-08-12T13:02:00-04:00</updated>
-    <id>http://dougsko.github.io/blog/2013/08/12/grow-log-8-slash-12-slash-13</id>
+    <id>http://dougsko.com/blog/2013/08/12/grow-log-8-slash-12-slash-13</id>
     <content type="html"><![CDATA[<p>Yesterday, I added some nutrients to the water.  I&rsquo;m using the Flora
 Grow nutrient system, which consists of three parts, Gro, Bloom, and
 Micro.  I added 4 tsp of each to the reservoir.</p>
@@ -153,9 +163,9 @@ pot.</p>
   
   <entry>
     <title type="html"><![CDATA[Grow log - 8/9/13]]></title>
-    <link href="http://dougsko.github.io/blog/2013/08/09/grow-log-8-slash-9-slash-13/"/>
+    <link href="http://dougsko.com/blog/2013/08/09/grow-log-8-slash-9-slash-13/"/>
     <updated>2013-08-09T12:53:00-04:00</updated>
-    <id>http://dougsko.github.io/blog/2013/08/09/grow-log-8-slash-9-slash-13</id>
+    <id>http://dougsko.com/blog/2013/08/09/grow-log-8-slash-9-slash-13</id>
     <content type="html"><![CDATA[<p>I didn&rsquo;t label my plants so I actually have no idea what&rsquo;s what yet.
 Two cubes have just barely began to sprout.  I stacked their pots on top
 of other pots in order to get them closer to the light.  The lights are
@@ -168,9 +178,9 @@ reflectors until I come up with a more permanant solution.</p>
   
   <entry>
     <title type="html"><![CDATA[Grow log - 8/6/13]]></title>
-    <link href="http://dougsko.github.io/blog/2013/08/06/grow-log-8-slash-6-slash-13/"/>
+    <link href="http://dougsko.com/blog/2013/08/06/grow-log-8-slash-6-slash-13/"/>
     <updated>2013-08-06T11:58:00-04:00</updated>
-    <id>http://dougsko.github.io/blog/2013/08/06/grow-log-8-slash-6-slash-13</id>
+    <id>http://dougsko.com/blog/2013/08/06/grow-log-8-slash-6-slash-13</id>
     <content type="html"><![CDATA[<p>I picked up the following seeds to grow in this garden:</p>
 
 <ul>
@@ -196,9 +206,9 @@ humidity.</p>
   
   <entry>
     <title type="html"><![CDATA[Ebb and flow, finishing the build]]></title>
-    <link href="http://dougsko.github.io/blog/2013/08/06/ebb-and-flow/"/>
+    <link href="http://dougsko.com/blog/2013/08/06/ebb-and-flow/"/>
     <updated>2013-08-06T11:34:00-04:00</updated>
-    <id>http://dougsko.github.io/blog/2013/08/06/ebb-and-flow</id>
+    <id>http://dougsko.com/blog/2013/08/06/ebb-and-flow</id>
     <content type="html"><![CDATA[<p>With the table and lights completed, what I needed next were some drain
 fittings.  One fitting is connected to the water pump and the other acts
 as an overflow guard.  The overflow tube limits how deep the water can
@@ -216,9 +226,9 @@ the table.</p>
   
   <entry>
     <title type="html"><![CDATA[Building a hydroponic garden]]></title>
-    <link href="http://dougsko.github.io/blog/2013/07/23/building-a-hydroponic-garden/"/>
+    <link href="http://dougsko.com/blog/2013/07/23/building-a-hydroponic-garden/"/>
     <updated>2013-07-23T10:27:00-04:00</updated>
-    <id>http://dougsko.github.io/blog/2013/07/23/building-a-hydroponic-garden</id>
+    <id>http://dougsko.com/blog/2013/07/23/building-a-hydroponic-garden</id>
     <content type="html"><![CDATA[<p>So I wanted to do some gardening in my apartment and so decided that a
 hydroponic system would be the best route.  Such a system would offer
 the most efficiency and capacity, while taking up the least amount of
