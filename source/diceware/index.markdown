@@ -26,7 +26,7 @@ entropy contained in the password, it also makes it harder to remember.
 Also, most of the commonly used "tricks" are well known to password
 crackers, and so they employ them as well.
 
-With the Diceware method, you're passphrases are easy to remember
+With the Diceware method, your passphrases are easy to remember
 because they are comprised of regular words, yet are high in entropy
 because of the way the words are chosen.  This cartoon by
 [XKCD](http://xkcd.com) sums it up well.
